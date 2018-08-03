@@ -1,0 +1,8 @@
+edu/neu/bsds/client/models/SkierStats.class
+edu/neu/bsds/client/TestClient.class
+edu/neu/bsds/client/MyCalc.class
+edu/neu/bsds/client/models/SkiRecords.class
+edu/neu/bsds/client/MyVertThread.class
+edu/neu/bsds/client/LoadRecordsThread.class
+edu/neu/bsds/client/ClientMain.class
+edu/neu/bsds/client/CsvFileReader.class
